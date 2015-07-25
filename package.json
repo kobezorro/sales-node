@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:kobezorro/sales-node.git"
   },
   "author": "kaibo",
   "license": "MIT"
